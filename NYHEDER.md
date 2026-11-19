@@ -3,6 +3,11 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.16.3
+
+- Lyddæmperen sidder på pistolens løb i stedet for at svæve ved siden af
+- Pistolens mundingsglimt kommer fra mundingen
+
 ## 0.16.2
 
 - På hug følger kameraet hovedet ned, så man ikke længere kigger ud gennem sin egen mave
