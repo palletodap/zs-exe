@@ -3,6 +3,20 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.16.0
+
+Zombier og skade (virker, når serveren er opdateret):
+
+- Skaden falder med afstanden for alle skydevåben, mod både spillere og zombier
+- Et hovedskud dræber stadig en almindelig zombie med det samme, men kun inden for våbnets rækkevidde
+  (pistol ca. 60 m); slag i hovedet giver bare ekstra skade
+- Almindelige zombier tåler mere, men slår kun 10 liv pr. slag
+- Kolossen findes kun ét fast sted i hver by, har rigtig meget liv og slår 25 liv pr. slag
+
+Også:
+
+- Andre spilleres bevægelser vises hurtigere (kortere forsinkelse)
+
 ## 0.15.6
 
 - Venstre hånd griber om riflens forskæfte: forskæftet ligger skråt over håndfladen, og fingrene lukker om det
