@@ -3,6 +3,12 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.17.1
+
+- Sværdhugget skærer fra øverst til venstre til nederst til højre: klingen drejer helt igennem i stedet for at lægge sig ned
+- Hovedskudslyden er halveret i styrke
+- Træf i kroppen har ingen lyd længere
+
 ## 0.17.0
 
 Kræver, at serveren også er 0.17.0 eller nyere.
