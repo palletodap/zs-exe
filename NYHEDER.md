@@ -3,6 +3,11 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.17.2
+
+- Sværd, økse og machete skærer nu i et rigtigt snit: klingen fejer fra øverst til venstre, hen over
+  billedet og ned mod højre, uden at lægge sig ned eller stikke fremad
+
 ## 0.17.1
 
 - Sværdhugget skærer fra øverst til venstre til nederst til højre: klingen drejer helt igennem i stedet for at lægge sig ned
