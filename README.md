@@ -11,6 +11,10 @@ Her ligger de færdige filer til spillet. Kildekoden ligger et andet sted.
 
 Spillet spørger selv ved start, om der er kommet en nyere version, og tilbyder at hente den.
 
+## Nyheder
+
+Hvad der er nyt i hver version, står i [NYHEDER.md](NYHEDER.md) og i beskrivelsen af hver udgivelse.
+
 ## version.json
 
 Filen `version.json` fortæller spillet, hvad den nyeste version hedder, og hvor den kan hentes.
