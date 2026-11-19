@@ -3,6 +3,10 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.16.4
+
+- Overkroppen holdes i ro, når man går og løber, så skulder og arme ikke vrider sig foran kameraet
+
 ## 0.16.3
 
 - Lyddæmperen sidder på pistolens løb i stedet for at svæve ved siden af
