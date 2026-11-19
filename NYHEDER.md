@@ -3,6 +3,15 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.16.5
+
+- Nyt hug med sværd, økse og machete: op til venstre, skråt ned mod højre og tilbage
+- Kniven stikker lige frem
+- Slaget rammer midt i hugget i stedet for i det øjeblik, man klikker
+- I luften kan man trække til siden og dreje sin bane (A/D midt i et hop), uden at miste farten fremad
+- Hovedskud giver en våd, tung lyd i stedet for et pling
+- Højre hånd sidder lidt længere mod venstre på pistolens greb
+
 ## 0.16.4
 
 - Overkroppen holdes i ro, når man går og løber, så skulder og arme ikke vrider sig foran kameraet
