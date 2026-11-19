@@ -3,6 +3,11 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.16.2
+
+- På hug følger kameraet hovedet ned, så man ikke længere kigger ud gennem sin egen mave
+- Underarmene ser ikke længere vredne ud: håndens drejning fordeles ud på underarmen
+
 ## 0.16.1
 
 - Kort på M: byerne med huse, lejren, startstederne, din boks og en pil for dig selv
