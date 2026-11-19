@@ -3,6 +3,10 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.15.6
+
+- Venstre hånd griber om riflens forskæfte: forskæftet ligger skråt over håndfladen, og fingrene lukker om det
+
 ## 0.15.5
 
 - Hænderne sidder nu på våbnene, tjekket fra siden: begge hænder om pistolens greb, højre hånd på
