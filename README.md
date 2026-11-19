@@ -11,11 +11,6 @@ Her ligger de færdige filer til spillet. Kildekoden ligger et andet sted.
 
 Spillet spørger selv ved start, om der er kommet en nyere version, og tilbyder at hente den.
 
-## Server
-
-`ZombieSurvival-server-linux.zip` og `ZombieSurvival-server-windows.zip` under samme udgivelse
-indeholder serveren. Spil og server skal være fra samme version.
-
 ## version.json
 
 Filen `version.json` fortæller spillet, hvad den nyeste version hedder, og hvor den kan hentes.
