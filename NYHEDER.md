@@ -3,6 +3,14 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.17.0
+
+Kræver, at serveren også er 0.17.0 eller nyere.
+
+- Med rygsækken åben vises det, der ligger på jorden i nærheden, i et vindue til højre: træk ting op i
+  rygsækken (eller dobbeltklik) for at samle op, og træk ting derud for at smide dem
+- Man kan se skud i våben og magasiner, før man samler dem op
+
 ## 0.16.6
 
 - Kniven holdes lavere gennem stikket
