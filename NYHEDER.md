@@ -3,6 +3,12 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.16.1
+
+- Kort på M: byerne med huse, lejren, startstederne, din boks og en pil for dig selv
+- Rigtig dukke-stilling: figuren bøjer knæene i stedet for at blive trykket sammen
+- Andre kan se lyset fra din lommelygte (kræver opdateret server)
+
 ## 0.16.0
 
 Zombier og skade (virker, når serveren er opdateret):
