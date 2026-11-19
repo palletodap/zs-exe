@@ -3,6 +3,11 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.17.3
+
+- I hugget drejer håndleddet ikke længere klingen over mod højre: sværdet holder sin vinkel, og armen
+  fører det skråt ned fra øverst til venstre til nederst til højre
+
 ## 0.17.2
 
 - Sværd, økse og machete skærer nu i et rigtigt snit: klingen fejer fra øverst til venstre, hen over
