@@ -3,6 +3,10 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.16.6
+
+- Kniven holdes lavere gennem stikket
+
 ## 0.16.5
 
 - Nyt hug med sværd, økse og machete: op til venstre, skråt ned mod højre og tilbage
