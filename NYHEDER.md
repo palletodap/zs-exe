@@ -3,6 +3,11 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.17.4
+
+- Spillet ser efter opdateringer hvert halve minut, mens man står på forsiden, og beder om et friskt
+  svar, så en ny version bliver tilbudt uden genstart og uden forsinkelse
+
 ## 0.17.3
 
 - I hugget drejer håndleddet ikke længere klingen over mod højre: sværdet holder sin vinkel, og armen
