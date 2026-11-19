@@ -3,6 +3,10 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.15.3
+
+- Lysere inde i husene: skyggerne er ikke længere helt sorte (om natten er der stadig mørkt)
+
 ## 0.15.2
 
 - Pistolen ligger rigtigt i hånden
