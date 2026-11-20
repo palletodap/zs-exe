@@ -3,6 +3,12 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.20.4
+
+Kun spillet; serveren skal ikke opdateres.
+
+- Den orange streg i enden af det valgte menupunkt på forsiden er fjernet
+
 ## 0.20.3
 
 Kun spillet; serveren skal ikke opdateres.
