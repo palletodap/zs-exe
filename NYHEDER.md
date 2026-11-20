@@ -3,6 +3,14 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.21.3
+
+Kun spillet; serveren skal ikke opdateres.
+
+- Fejlsøgning af skud og slag: tryk F9 inde i spillet. Så vises hitboksene på andre spillere og zombier
+  (krop blå, hoved rød), en streg for hvert skud og slag hen til det sted, det ramte, og en liste over,
+  hvad hvert skud ramte, og om serveren godkendte det (grøn) eller ej (orange)
+
 ## 0.21.2
 
 Serveren skal opdateres for at få zombie-ændringen. Spillet kan opdateres uafhængigt af det.
