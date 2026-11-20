@@ -3,6 +3,16 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.21.2
+
+Serveren skal opdateres for at få zombie-ændringen. Spillet kan opdateres uafhængigt af det.
+
+- Zombierne i byerne står ikke længere fanget i de lukkede gårde: omkring 70 % står ude på gaderne, og
+  resten står inde i huse, man kan gå ind i. Serveren tjekker for hvert sted, at zombien kan gå derfra og
+  ud til vejene
+- Fps-tælleren viser igen kun fps (tallene for tegnekald og trekanter var til fejlsøgning)
+- Zombierne i Den Røde Zone står nu inde bag muren og ikke også på gaderne udenfor
+
 ## 0.21.1
 
 Kun spillet; serveren skal ikke opdateres.
