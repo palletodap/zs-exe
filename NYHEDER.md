@@ -3,6 +3,17 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.24.0
+
+Kun spillet; serveren skal ikke opdateres (den skal blot være på 0.23.3 for de ekstra zombier om natten).
+
+- Solen og månen kan ses på himlen. Solen står op i den ene side, går hen over himlen i løbet af dagen
+  og går ned i den anden; om natten gør månen det samme
+- Skyggerne følger solen og flytter sig i løbet af dagen
+- Solopgang og solnedgang: mens solen står lavt, bliver lyset varmt og stærkere, disen får farve, og der
+  er et skær om solen. Solen går ned, lige før mørket falder på
+- Skudlyden er højere, og lyden af et træf (også hovedskud) er sat ned, så den ligger lidt under skuddet
+
 ## 0.23.3
 
 Serveren skal opdateres; spillet behøver det ikke.
