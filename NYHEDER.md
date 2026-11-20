@@ -3,6 +3,12 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.26.3
+
+Kun spillet; serveren skal ikke opdateres.
+
+- Pistolen er rykket 1 cm længere tilbage i hånden
+
 ## 0.26.2
 
 Kun spillet; serveren skal ikke opdateres.
