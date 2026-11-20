@@ -3,6 +3,13 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.20.3
+
+Kun spillet; serveren skal ikke opdateres.
+
+- Dukkestillingen på de nye figurer er rettet: de svævede over jorden i en alt for dyb hugstilling. Nu
+  står fødderne på jorden, det ene ben er sat lidt frem, og overkroppen læner sig frem
+
 ## 0.20.2
 
 Kun spillet; serveren skal ikke opdateres.
