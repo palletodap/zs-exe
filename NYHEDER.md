@@ -3,6 +3,19 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.21.0
+
+Kun spillet; serveren skal ikke opdateres.
+
+- Figurernes bevægelser er gennemgået og lavet om, så fødderne passer til farten: langsom gang (når man
+  sigter eller er dukket), let løb (spillets almindelige gang), og spurt har hver sin animation, og
+  afspilningen følger den fart, man faktisk har
+- Figurerne bliver nu på stedet i animationen; før gled de en meter frem og sprang tilbage for hvert skridt
+- Baglæns: benene går baglæns. Sidelæns og skråt: benene drejer i den retning, man bevæger sig, mens
+  overkroppen og våbnet bliver ved med at pege frem
+- Hop: benene bøjes i luften
+- Dukket gang: små skridt med fødderne på jorden
+
 ## 0.20.4
 
 Kun spillet; serveren skal ikke opdateres.
