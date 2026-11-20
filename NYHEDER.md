@@ -3,6 +3,13 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.25.2
+
+Kun spillet; serveren skal ikke opdateres.
+
+- Den svage skrattelyd, når man blev ramt, er væk. Det var en kort kunstig lyd; nu høres et rigtigt, dumpt slag
+- Zombier snerrer, idet de slår ud
+
 ## 0.25.1
 
 Kun spillet; serveren skal ikke opdateres.
