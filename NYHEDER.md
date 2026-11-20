@@ -3,6 +3,17 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.19.0
+
+Serveren skal opdateres sammen med spillet.
+
+- Storbyen har fået et helt nyt vejnet, så den ikke længere er ét stort gitter: fire kvarterer ligger
+  drejet i hver sin vinkel i hjørnerne, og fire pladser (torvet, stadion, parken og tankstationen)
+  ligger tættere på lejren. Imellem dem løber skæve landeveje gennem skoven, og en ringvej går rundt om lejren
+- Skoven vokser nu ind mellem bydelene, og kortet er blevet større, så skoven rundt om byen er tykkere
+- Nye startsteder ude på vejene mellem bydelene
+- Kontrolposten ligger på vejen nord for lejren
+
 ## 0.18.0
 
 Serveren skal opdateres sammen med spillet.
