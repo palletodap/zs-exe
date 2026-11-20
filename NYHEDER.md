@@ -3,6 +3,13 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.22.2
+
+Kun spillet; serveren skal ikke opdateres.
+
+- Ctrl+klik flytter en ting direkte uden at trække: fra jorden til rygsækken, og med boksen åben mellem
+  rygsæk og boks. Tingen lægges i en stak af samme slags, hvis der er en, ellers i første ledige felt
+
 ## 0.22.1
 
 Serveren skal opdateres; spillet behøver det ikke.
