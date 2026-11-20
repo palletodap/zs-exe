@@ -3,6 +3,15 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.22.1
+
+Serveren skal opdateres; spillet behøver det ikke.
+
+- Den sikre zone (lejren) beskytter nu også mod andre spillere: man kan ikke skade en, der står i zonen,
+  og man kan ikke skade nogen, mens man selv står i den
+- I den sikre zone mister man ikke liv af sult og tørst. Blødning kan man stadig dø af
+- Kan slås fra med `"safe_zone": 0` i serverens `survival.json`
+
 ## 0.22.0
 
 Serveren skal opdateres sammen med spillet.
