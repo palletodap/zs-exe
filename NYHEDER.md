@@ -3,6 +3,16 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.19.2
+
+Kun spillet; serveren skal ikke opdateres.
+
+- Ting forsvinder ikke længere på afstand. Træer langt væk tegnes som en enkel udgave med samme omrids,
+  så skoven skjuler det samme, uanset hvor langt væk man kigger fra
+- Alt, man kan gemme sig bag (kasser, biler, containere, sandsække, mure, buske), tegnes altid. Kun
+  det helt små pynt (papir, dåser, striber) udelades på afstand
+- Det, der står bag en lukket bygning, bliver ikke tegnet, så længe bygningen dækker for det
+
 ## 0.19.1
 
 Kun spillet; serveren skal ikke opdateres.
