@@ -3,6 +3,13 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.24.1
+
+Både serveren og spillet skal opdateres.
+
+- `/god` gør nu også, at skud, mad, drikke og forbindinger ikke bliver brugt op. Et lilla mærke øverst på
+  skærmen viser, at koden er slået til
+
 ## 0.24.0
 
 Kun spillet; serveren skal ikke opdateres (den skal blot være på 0.23.3 for de ekstra zombier om natten).
