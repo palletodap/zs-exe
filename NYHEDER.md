@@ -3,6 +3,22 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.21.4
+
+Både serveren og spillet bør opdateres (det meste ligger i serveren).
+
+- Zombier rammer ikke længere på afstand: før fik man skaden i samme øjeblik, zombien kom inden for
+  rækkevidde, før slaget var begyndt på skærmen. Nu standser zombien og slår ud, og skaden falder først
+  efter et lille halvt sekund, og kun hvis man stadig står inden for to meter. Man kan altså træde
+  tilbage eller løbe fra et slag
+- Zombiernes plads på skærmen følger serveren tættere (flere opdateringer i sekundet og mindre udjævning),
+  så de ikke længere er omkring en meter bagud, når de løber
+- Zombier svæver ikke længere over jorden, når de står stille, løber eller slår: animationerne var lavet
+  i forskellig højde (op til 17 cm over jorden), og modellen sænkes nu tilsvarende
+- Spilleres slag kan ikke længere ramme på flere meters afstand: serveren kræver nu, at et slag sidder tæt på målet
+  (0,7 m fra slagets retning mod 1,5 m før), og at målet står inden for våbnets rækkevidde plus lidt slør
+- Kortere rækkevidde på nærkampsvåben: kniv 1,6 m, machete og økse 1,9 m, sværd 2,1 m
+
 ## 0.21.3
 
 Kun spillet; serveren skal ikke opdateres.
