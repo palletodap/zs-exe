@@ -3,6 +3,17 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.22.0
+
+Serveren skal opdateres sammen med spillet.
+
+- Snydekoder til afprøvning, skrevet i chatten: `!ammo` giver 5 magasiner til det våben, man har fremme,
+  og `!heal` fylder liv, mad og vand. De virker kun, når serveren har `"cheats": 1` i sin `survival.json`,
+  og de andre spillere ser ikke kommandoen
+- Fejlsøgningen (F9) viser nu også skaden for hvert godkendt træf, hvor meget liv målet har tilbage, og
+  afstanden hos serveren, så man kan se skaden falde med afstanden
+- En grøn ramme om skærmen og teksten "SIKKER ZONE", når man står i lejren
+
 ## 0.21.5
 
 Kun spillet; serveren skal ikke opdateres.
