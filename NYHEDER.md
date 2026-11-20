@@ -3,6 +3,16 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.26.0
+
+Både serveren og spillet skal opdateres (byens huse er flyttet en smule).
+
+- Gyder i Storbyen: husene i karréerne står nu med to meter imellem, så man kan gå ind i gårdene, og
+  zombierne kan følge efter. Før var fem af gårdene helt lukkede for zombier, så de var et sikkert gemmested
+- En spiller, der dør, falder om og bliver liggende i otte sekunder i stedet for at forsvinde med det samme
+- De sidste kunstige lyde er skiftet ud med optagelser: klikket ved tom pistol, lyden når man samler op og
+  bruger ting, zombiens sving og lyden ved et drab
+
 ## 0.25.2
 
 Kun spillet; serveren skal ikke opdateres.
