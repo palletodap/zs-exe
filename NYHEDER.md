@@ -3,6 +3,17 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.21.1
+
+Kun spillet; serveren skal ikke opdateres.
+
+- Bedre ydelse, især i Storbyen og inde i etageejendommene: vægge, gulve, trapper, kasser og andre
+  enkle dele lægges sammen pr. område, så de tegnes med langt færre kald. I målingerne faldt antallet
+  af tegnekald i byen til omkring en tredjedel, uden at noget ser anderledes ud
+- Fps-tælleren (slås til under Indstillinger) viser nu også antal tegnekald og trekanter
+- Rygsækken hopper ikke længere, når man peger på ting under "På jorden": tekstfeltet har nu en fast
+  størrelse, uanset hvor lang teksten er
+
 ## 0.21.0
 
 Kun spillet; serveren skal ikke opdateres.
