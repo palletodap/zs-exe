@@ -3,6 +3,15 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.20.2
+
+Kun spillet; serveren skal ikke opdateres.
+
+- Forsiden har fået nyt udseende: baggrundsbillede fra Storbyen, afrundede flader, en tydelig
+  accentfarve, menupunkter med markering af den valgte side, og serverne vist som kort med navn,
+  adresse og svar
+- Ny knap "Genindlæs serverliste" under listen, som spørger alle servere igen med det samme
+
 ## 0.20.1
 
 Kun spillet; serveren skal ikke opdateres.
