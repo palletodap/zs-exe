@@ -3,6 +3,16 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.20.0
+
+Serveren skal opdateres sammen med spillet.
+
+- Nye spillerfigurer: 12 almindelige mennesker i arbejdstøj og uniform (betjent, vagt, redder, brandmand,
+  soldat, byggearbejder, skovarbejder, bud, gartner og fodboldspiller) i stedet for den ene soldat
+- Ny side på forsiden, "Figur", hvor man vælger, hvem man vil spille, før man joiner. De andre spillere
+  ser den figur, man har valgt
+- Figurerne har nye stå-, gå- og løbeanimationer. Hænder på våben og dukkestilling er flyttet over på det nye skelet
+
 ## 0.19.2
 
 Kun spillet; serveren skal ikke opdateres.
