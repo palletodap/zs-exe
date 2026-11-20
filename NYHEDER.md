@@ -3,6 +3,13 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.23.2
+
+Serveren skal opdateres; spillet behøver det ikke.
+
+- Ny snydekode: `/god` gør, at man ikke tager skade af noget (zombier, spillere, blødning, sult og tørst).
+  Skriv den igen for at slå det fra; det holder også op, når man forlader serveren
+
 ## 0.23.1
 
 Serveren skal opdateres; spillet behøver det ikke.
