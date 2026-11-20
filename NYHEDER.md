@@ -3,6 +3,12 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.26.1
+
+Kun spillet; serveren skal ikke opdateres.
+
+- Pistolen sidder 10 cm længere tilbage i hånden, så grebet ligger i håndfladen
+
 ## 0.26.0
 
 Både serveren og spillet skal opdateres (byens huse er flyttet en smule).
