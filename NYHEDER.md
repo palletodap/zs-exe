@@ -3,6 +3,14 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.23.1
+
+Serveren skal opdateres; spillet behøver det ikke.
+
+- Serveren gemmer klokken og fortsætter døgnet, hvor det slap, efter en genstart. Før startede hver
+  genstart forfra kl. 06:00, så en server, der blev opdateret ofte, aldrig nåede til natten
+- Nye snydekoder: `/nat` stiller klokken til mørkets frembrud, og `/dag` til daggry
+
 ## 0.23.0
 
 Serveren skal opdateres sammen med spillet.
