@@ -3,6 +3,16 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.19.1
+
+Kun spillet; serveren skal ikke opdateres.
+
+- Bedre ydelse i Storbyen: træer, pynt og småting tegnes kun inden for en vis afstand, og små ting
+  kaster ikke længere skygge. Skoven tegnes i felter i stedet for det hele på én gang
+- De lukkede bygninger ser mere ægte ud: vinduer med karme og sålbænke, tilbrættede vinduer, gesims
+  øverst, hjørnebånd og tagflade
+- Vedbenden på murene er fjernet (den lignede klodser), og lapperne i asfalten er færre og mindre
+
 ## 0.19.0
 
 Serveren skal opdateres sammen med spillet.
@@ -39,8 +49,8 @@ Serveren skal opdateres sammen med spillet.
 - Zombier dukker først op, når en spiller er i nærheden af deres område, og forsvinder igen, når
   området er tomt, så serveren ikke arbejder på steder uden spillere (gælder begge kort)
 - Jordbunden er blevet græsgrøn i stedet for sandfarvet (begge kort)
-- Serveren vælger kortet: `MAP=city` i `/etc/zombie-survival.env` (nye installationer) eller
-  `"map_id": 1` i `survival.json`. Kortet over verden (M) følger med
+- Serveren vælger kortet: `MAP=city` i `/etc/zombie-survival.env` (opdateringen tilføjer selv linjen
+  som `MAP=village`). Kortet over verden (M) følger med
 - Venstre håndled er rettet lidt ud på rifler
 
 ## 0.17.4
