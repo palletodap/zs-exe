@@ -3,6 +3,14 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.23.3
+
+Serveren skal opdateres; spillet behøver det ikke.
+
+- Flere zombier om natten: hver zone har ekstra steder, som kun er i brug, når det er mørkt (50 % flere
+  end om dagen som udgangspunkt). Ved daggry forsvinder de igen, medmindre de er i gang med at jage nogen
+- Kan ændres med `night_zombie_extra` i serverens `survival.json` (0 slår det fra, 1 fordobler)
+
 ## 0.23.2
 
 Serveren skal opdateres; spillet behøver det ikke.
