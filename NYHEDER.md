@@ -3,6 +3,21 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.23.0
+
+Serveren skal opdateres sammen med spillet.
+
+- Slag rækker nu det, våbnet er sat til (kniv 1,6 m, machete og økse 1,9 m, sværd 2,1 m). Før blev alle
+  rækkevidder tvunget op på mindst 5 meter, når tallene blev læst ind, så alle nærkampsvåben ramte på 5 meter
+- Hitboksene følger nu figurens krop: hovedets kugle sidder på hovedet, og kroppens kapsel går fra
+  fødderne op til halsen og læner sig med. Før stod hitboksen lodret, så man skød forbi en zombie, der
+  løb foroverbøjet, selvom sigtekornet var på den. Gælder også spillere, der dukker sig
+- Shift+klik på en stak spørger, hvor mange man vil flytte. Med boksen åben flyttes de over på den anden
+  side; ellers lægges de i et tomt felt, så stakken bliver delt
+- En taske fra jorden tages nu direkte på, når man ingen har, eller når den er større end den, man har på
+  (den gamle lægges på jorden). Før blev den afvist som for tung, fordi man uden taske ikke kan bære den
+- Snydekoderne skrives nu med skråstreg: `/ammo` og `/heal`
+
 ## 0.22.2
 
 Kun spillet; serveren skal ikke opdateres.
@@ -23,7 +38,7 @@ Serveren skal opdateres; spillet behøver det ikke.
 
 Serveren skal opdateres sammen med spillet.
 
-- Snydekoder til afprøvning, skrevet i chatten: `!ammo` giver 5 magasiner til det våben, man har fremme,
+- Snydekoder til afprøvning, skrevet i chatten: `!ammo` (nu `/ammo`) giver 5 magasiner til det våben, man har fremme,
   og `!heal` fylder liv, mad og vand. De virker kun, når serveren har `"cheats": 1` i sin `survival.json`,
   og de andre spillere ser ikke kommandoen
 - Fejlsøgningen (F9) viser nu også skaden for hvert godkendt træf, hvor meget liv målet har tilbage, og
