@@ -3,6 +3,17 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.25.0
+
+Både serveren og spillet skal opdateres.
+
+- To nye slags zombier: **natjægeren**, som kun findes om natten, er hurtigere, end man kan løbe, hyler,
+  når den får færten, og har røde øjne, der lyser i mørket; og **slagteren**, som er stor, tåler flere
+  hovedskud, slår hårdt og brøler
+- Rigtige lyde til zombierne: skrigeren har fået et rigtigt skrig, kolossen og slagteren brøler og knurrer
+  dybt, og almindelige zombier og løbere snerrer, når de får øje på én. Skrig, brøl og hyl kan høres langt væk
+- En zombie, der bliver ramt uden at dø, giver lyd fra sig
+
 ## 0.24.1
 
 Både serveren og spillet skal opdateres.
