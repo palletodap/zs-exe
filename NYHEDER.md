@@ -3,6 +3,15 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.21.5
+
+Kun spillet; serveren skal ikke opdateres.
+
+- Pausemenuen er ryddet op: et kort midt på skærmen med Fortsæt, Indstillinger, Sigtekorn, Taster og
+  Forlad serveren. Sigtekorn og tasteoversigt ligger nu på hver sin side i stedet for at fylde forsiden
+- Esc lukker altid det, der er åbent, eller går ét skridt tilbage: chat, kort, rygsæk, boks og
+  undersiderne i pausemenuen. Er intet åbent, kommer pausemenuen frem
+
 ## 0.21.4
 
 Både serveren og spillet bør opdateres (det meste ligger i serveren).
