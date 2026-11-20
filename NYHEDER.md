@@ -3,6 +3,35 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.18.0
+
+Serveren skal opdateres sammen med spillet.
+
+- Nyt kort: **Storbyen**. En forladt by i et gadenet med butikker og etageejendomme, man kan gå ind i
+  (op til fire etager med trapper), lukkede højhuse, en tilgroet park, gårde bag husene og lejren i midten
+- Fire kvarterer med hvert sit præg, så man kan finde rundt: Havnekvarteret (pakhuse af blik),
+  Banegårdskvarteret (centrum med højhuse), Gamle By (lave huse i røde mursten) og Fabrikskvarteret
+- Særlige steder, man kan navigere efter på lang afstand: kirken med tårn og kirkegård, byggepladsen
+  med et råhus i fem etager og en tårnkran, containerhavnen med portalkran, fabrikken med to skorstene,
+  torvet med statue og boder, tankstationen med parkeringsplads og sportspladsen med tribune og skole
+- Gaderne er fulde af detaljer: bilvrag, busser, barrikader af sandsække, busskure, telefonbokse,
+  containere, lyskurve, skilte, fodgængerfelter, affald, udsmidte møbler, vedbend op ad murene og
+  planter gennem asfalten
+- **Den Røde Zone** i byens sydvestlige hjørne: et afspærret militærområde med langt flere zombier,
+  fire kolosser og militærkasser med det bedste loot (flere ting pr. kasse og større chance for sjældne ting)
+- Man kan klatre: hold hop nede og gå ind mod en kant i op til cirka 1,75 meters højde (kasser, biler,
+  containere, busser, lave tage fra en stabel). Det koster lidt udholdenhed
+- Veje op på tagene: brandtrapper i gårdene, kassestabler ved de lave huse, trapper helt op på taget i
+  nogle ejendomme, og man kan springe fra tag til tag
+- Rundt om byen ligger en tæt skov med spredte zombier, og banens kant er en stejl klippevæg med
+  lag, fremspring og bevoksning og træer på toppen. Man kan ikke komme op ad den
+- Zombier dukker først op, når en spiller er i nærheden af deres område, og forsvinder igen, når
+  området er tomt, så serveren ikke arbejder på steder uden spillere (gælder begge kort)
+- Jordbunden er blevet græsgrøn i stedet for sandfarvet (begge kort)
+- Serveren vælger kortet: `MAP=city` i `/etc/zombie-survival.env` (nye installationer) eller
+  `"map_id": 1` i `survival.json`. Kortet over verden (M) følger med
+- Venstre håndled er rettet lidt ud på rifler
+
 ## 0.17.4
 
 - Spillet ser efter opdateringer hvert halve minut, mens man står på forsiden, og beder om et friskt
