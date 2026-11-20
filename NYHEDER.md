@@ -3,6 +3,13 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.25.1
+
+Kun spillet; serveren skal ikke opdateres.
+
+- Ens egen hånd og våben kaster ikke længere skygge i lommelygtens lys. De kaster stadig skygge fra solen
+  og månen
+
 ## 0.25.0
 
 Både serveren og spillet skal opdateres.
