@@ -3,6 +3,22 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.27.0
+
+Både spillet og serveren skal opdateres (ny netværksversion).
+
+- Nye, detaljerede modeller til alle våben: Glock-pistol (også med rigtig lyddæmper), AK-automatriffel,
+  KSR-29-snigskytteriffel med indbygget kikkert, M9-kniv, machete, brandøkse og katana
+- Jagtriflen er fjernet; der er nu kun én sjælden snigskytteriffel. Jagtrifler og deres magasiner,
+  som spillere havde gemt, bliver automatisk til karabiner og karabinmagasiner
+- Realistiske kalibre med fire slags magasiner: 9×19 mm (17 skud) til pistolerne, 5,56 mm (30 skud)
+  til karabinen, 7,62×39 mm (30 skud) til automatriflen og .338 Lapua (5 skud) til snigskytteriflen
+- Automatriflen rammer hårdere (kraftigere patron), karabinen er mere præcis
+- Magasinerne på jorden og i rygsækken er de rigtige magasiner fra våbenmodellerne
+- Pistolen holdes med et tohåndsgreb; højre tommelfinger holder om grebet på alle skydevåben
+- Øksen og katanaen holdes lavere, så hele våbnet kan ses
+- Nye ikoner til våben og magasiner
+
 ## 0.26.3
 
 Kun spillet; serveren skal ikke opdateres.
