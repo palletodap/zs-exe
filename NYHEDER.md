@@ -3,6 +3,23 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.29.0
+
+Både spillet og serveren skal opdateres (serveren regner udholdenheden ud).
+
+- Mæt og utørstig (over 80 i både mad og vand) koster løb ingen udholdenhed; under det bliver man
+  hurtigere træt, jo mindre mad og vand man har, og helt uden kan man ikke løbe
+- Hop koster ingen udholdenhed, går højere og varer længere, og benene trækkes op, så man kan
+  hoppe op på højere ting; en almindelig landing bremser næsten ikke
+- Man går langsommere, når man dukker sig
+- Skud mister skade over afstand efter kaliber: 9 mm mest, .338 Lapua mindst
+- Boksen er nu et pengeskab i grønlakeret stål med sin egen lyd, når den åbnes
+- Ting i hånden: sidder i håndfladen, tommelfingeren om siden, og hånden løfter mad og drikke op til
+  munden; flasken har intet låg, og energibaren er revet op, mens man spiser og drikker
+- Energibaren har fået nyt orange papir, og energidrikken nyt tryk
+- AK'en sigter lige på sigtekornet
+- Musehjulet: op vælger feltet til venstre, ned feltet til højre
+
 ## 0.28.2
 
 Både spillet og serveren bør opdateres (serveren regner bonusudholdenheden ud).
