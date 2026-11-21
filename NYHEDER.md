@@ -3,6 +3,26 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.28.0
+
+Både spillet og serveren skal opdateres (ny netværksversion).
+
+- Ny, detaljeret Glock med en overflade af stål og plast, slidte kanter og ru greb; også med lyddæmper,
+  som nu sidder i højde med løbet og helt op til mundingen
+- Andre spillere holder våbnene rigtigt: rifler med kolben mod skulderen, pistolen med begge hænder,
+  og skuldrene trækkes ikke længere ned
+- Man kan se andre spillere hugge og stikke med nærkampsvåben
+- Nærkampsvåben slår igen og igen, så længe knappen holdes nede, og kan bruges i løb
+- Hug bruger mere armen og mindre håndleddet
+- Snigskytteriflen: rekylen falder til ro, før næste patron er ladt, så skud nummer to ikke går over
+- Udholdenhed afhænger af mad og vand: mæt og utørstig holder den dobbelt så længe (men løb bruger mere
+  mad og vand), og jo mindre mad og vand, jo hurtigere slipper den op
+- Sodavand og energibarer giver ekstra bonusudholdenhed (den guldfarvede bjælke), som bruges først
+- Hop koster mindre udholdenhed
+- Nye, realistiske modeller af dåsemad, vandflaske, sodavand, energibar, bind og førstehjælpskasse
+- Boksen i lejren er nu en gammel militærkiste
+- Nye lyde: at lægge ting i tasken, spise, drikke og tænde og slukke lommelygten
+
 ## 0.27.0
 
 Både spillet og serveren skal opdateres (ny netværksversion).
