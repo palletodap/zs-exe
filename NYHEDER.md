@@ -3,6 +3,20 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.28.2
+
+Både spillet og serveren bør opdateres (serveren regner bonusudholdenheden ud).
+
+- Sodavanden er blevet en energidrik i en smal dåse; bonusudholdenheden holder 4 gange så længe
+- Ting i hånden sidder midt i grebet, og hånden lukker sig om dem
+- Tyggelyde, mens man spiser, og synkelyde, mens man drikker
+- Riflen sænkes ned foran maven, mens man løber
+- Rettet: rifler sad for langt til venstre, når man sigtede, og kom op i ansigtet, når man dukkede sig
+- Rettet: lyddæmperen blinkede (to rør oven i hinanden)
+- Rettet: katana og økse røg ud af hånden, når man gik
+- Rettet: dåser, vandflasken og træstammerne vendte vrangen ud
+- Knappen i menuen hedder nu "Tilslut server"
+
 ## 0.28.1
 
 Både spillet og serveren bør opdateres (serveren regner bonusudholdenheden ud).
