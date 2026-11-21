@@ -3,6 +3,15 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.28.1
+
+Både spillet og serveren bør opdateres (serveren regner bonusudholdenheden ud).
+
+- Bonusudholdenhed fra sodavand og energibarer holder 2,5 gange så længe
+- Våbnet bliver i hånden, når armen er strakt helt ud: kniven skyder ikke længere ud af hånden ved stik,
+  hug med økse og katana holder fast, og venstre hånd slipper ikke skydevåbnet, når man sigter højt op
+- Gælder også, når man ser andre spillere
+
 ## 0.28.0
 
 Både spillet og serveren skal opdateres (ny netværksversion).
