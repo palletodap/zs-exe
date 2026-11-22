@@ -3,6 +3,15 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.32.1
+
+Kun spillet skal opdateres.
+
+- Ny eksplosionslyd til håndgranaten: et skarpt knald, raslende stykker og en lang, dyb hale
+- Vækkeurets ringen er rettet (forkert lydformat)
+- F9 (fejlsøgning) står kun i tastoversigten for ejer og admins
+- Rollen som ejer eller admin gælder kun på den server, man er på
+
 ## 0.32.0
 
 Både spillet og serveren skal opdateres (ny protokol).
