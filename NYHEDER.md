@@ -3,6 +3,19 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.29.1
+
+Både spillet og serveren skal opdateres (rettelsen af zombierne ligger på serveren).
+
+- Rettet: zombier blinkede væk i nogle sekunder, når mange var tæt på; deres positioner sendes nu
+  i små bundter, og spillet venter længere, før det fjerner en zombie
+- Bind: venstre arm holdes vandret foran brystet, og højre hånd fører rullen rundt om hånden
+- Førstehjælpskassen bæres foran brystet, låget åbnes lidt, og højre hånd roder i den
+- Flasken har en hals i klar plast, når låget er skruet af
+- Hånden er mere åben om dåser og flasker, og tommelfingeren spredt ud
+- Energibaren er klart orange med hvid kant om teksten, og den åbne bar er afrundet
+- Energidrikken har fået et enkelt rødt lyn som mærke
+
 ## 0.29.0
 
 Både spillet og serveren skal opdateres (serveren regner udholdenheden ud).
