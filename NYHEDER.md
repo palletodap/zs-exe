@@ -3,6 +3,19 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.31.1
+
+Både spillet og serveren skal opdateres (kastet regnes ud på serveren).
+
+- Kast: hold venstre klik nede, så trækkes armen tilbage; slip for at kaste. Slipper man tidligt,
+  bliver kastet svagere
+- Granater og vækkeure flyver i en bue, hopper af vægge og jord og triller videre efter farten;
+  vækkeuret begynder først at ringe, når det ligger stille
+- Røggranaten er fjernet
+- Hugmærker er svage efter ét hug og bliver tydeligere, jo flere gange man hugger samme sted; de
+  går nu den rigtige vej og stikker ikke længere ud over hjørner og kanter
+- Vækkeuret vender skiven fremad
+
 ## 0.31.0
 
 Både spillet og serveren skal opdateres (ny protokol: grupper og kastede ting).
