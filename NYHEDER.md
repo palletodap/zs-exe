@@ -3,6 +3,20 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.32.0
+
+Både spillet og serveren skal opdateres (ny protokol).
+
+- Serveren kan få en ejer: første gang skriver serveren en kode i sin log; skriv `/claim KODEN` i
+  chatten for at blive ejer. Ejeren kan gøre andre til admin med `/admin navn` (og `/fjernadmin navn`)
+- Ejer og admins kan smide spillere ud (`/kick navn`), udelukke dem (`/ban navn`, `/unban navn`) og
+  se `/admins`
+- Snydekoder og fejlsøgningen på F9 virker kun for ejer og admins
+- Granateksplosionen er voldsommere: kraftigt blink, ildkugle, gnister, jord der flyver, røg og et
+  sort brændemærke, og billedet ryster mere
+- Zombier, der overlever en granat, går hen til braget i stedet for efter den, der kastede
+- Pistolerne kan skyde så hurtigt, man klikker, men skuddene spreder sig meget, når man skyder hurtigt
+
 ## 0.31.2
 
 Både spillet og serveren skal opdateres (zombiernes opførsel ligger på serveren).
