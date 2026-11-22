@@ -3,6 +3,15 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.31.2
+
+Både spillet og serveren skal opdateres (zombiernes opførsel ligger på serveren).
+
+- Vækkeuret lokker nu zombier ordentligt: så længe det ringer, går zombier i nærheden hen til uret og
+  lægger kun mærke til spillere helt tæt på (inden for 4 m), også dem, der jagede en
+- Hånden ser normal ud, mens man holder en granat eller et ur tilbage før kastet
+- Urets metal er lyst både i ikonet og i spillet
+
 ## 0.31.1
 
 Både spillet og serveren skal opdateres (kastet regnes ud på serveren).
