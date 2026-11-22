@@ -3,6 +3,25 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.31.0
+
+Både spillet og serveren skal opdateres (ny protokol: grupper og kastede ting).
+
+- Håndgranater, røggranater og vækkeure: kastes med venstre klik (hold højre klik for et kort,
+  blødt kast). Granaten dræber zombier tæt på og skader spillere, men ikke bag vægge; røgen
+  skjuler en for zombierne; vækkeuret ringer og lokker zombier hen
+- Grupper: hold TAB nede, højreklik på en spiller og vælg "Inviter til gruppe"; svar på en
+  invitation med flueben eller kryds ud for navnet. Man kan ikke skade sin egen gruppe
+- Navnene over andre spillere er væk; dem i ens gruppe har en lille grøn trekant
+- Spilleroversigten (TAB) er lavet om: musen kan bruges, mens TAB holdes nede, og den viser drab i
+  det nuværende liv og ping
+- En tændt lommelygte ses langt væk i mørket, og zombier, man lyser på, opdager en
+- Bedre loot om natten
+- Rigtige skudhuller og mærker efter hug med kniv, økse, machete og sværd
+- Energibaren er lavet om: tykkere pakke i rigtig størrelse og en chokoladebar med karamel
+- Man lander på strakte ben efter et hop, så man ikke synker ned og rejser sig igen
+- Øksen kan nu også findes i boliger
+
 ## 0.30.0
 
 Både spillet og serveren skal opdateres (serveren skal sende videre, om en spiller sigter).
