@@ -3,6 +3,19 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.30.0
+
+Både spillet og serveren skal opdateres (serveren skal sende videre, om en spiller sigter).
+
+- Andre spillere, der dukker sig, bruger en optaget dukket stilling: overkroppen er bøjet frem,
+  og våbnet holdes foran brystet
+- Går de dukket, bruges en optaget gang dukket (fra Quaternius, omregnet til figurerne), så
+  benene skifter rigtigt
+- Man kan se, om andre spillere sigter: ellers holdes skydevåbnet lidt nede; sigter de, kommer
+  det op i skudstilling, og hovedet bøjes ned mod kolben
+- En sigtende pistol holdes højere oppe med strakte arme
+- Ens egen figur står med det ene ben lidt frem og det andet tilbage, når man dukker sig stille
+
 ## 0.29.1
 
 Både spillet og serveren skal opdateres (rettelsen af zombierne ligger på serveren).
