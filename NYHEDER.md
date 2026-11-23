@@ -3,6 +3,13 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.34.3
+
+Kun spillet skal opdateres.
+
+- Gruppen på kortet (M): medlemmerne vises som grønne pile med navn, og et rødt kryds, hvis de er døde
+- Ingen sol om natten: himlen har ikke længere en indmalet sol; om natten er den mørk med stjerner
+
 ## 0.34.2
 
 Både spillet og serveren skal opdateres (sandsække og bondehusets mure er ændret).
