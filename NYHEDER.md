@@ -3,6 +3,26 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.33.0
+
+Både spillet og serveren skal opdateres (ny protokol). Serveren kører nu altid Storbyen.
+
+- Landsbyerne er slettet; Storbyen er det eneste kort. Figurer, der var gemt på Landsbyerne,
+  starter i lejren (de beholder deres ting). En `MAP=`-linje i serverens indstillinger bruges ikke
+  mere
+- Prototype-gaden: tryk E ved busstoppestedet i lejren for at tage bussen ud til en lukket gade
+  med de nye bygninger, der er under udvikling. Bussen tilbage holder for enden af gaden. Gaden er
+  en sikker zone uden zombier, og loot-stederne viser attrapper, man ikke kan samle op
+- Nye bygninger på prototype-gaden:
+  - Supermarkedet: tomme reoler med lidt mad og drikke, kasser, køleskabe, lager og kontor,
+    ovenlysvinduer, skilte over gangene og lysstofrør, der blinker og summer
+  - Lægehuset: venteværelse brugt som nødlazaret med feltsenge og dropstativer, blod og kanyler,
+    konsultationsrum, medicinrum og laboratorium
+- Automat med sodavand og slik: slå på den, og måske falder der noget ud (det larmer)
+- Nye lygtepæle: almindelige danske vejlamper i stedet for de gamle lanterner
+- Mere naturligt lys indenfor (dagslys gennem vinduerne) og øjne, der vænner sig til mørke og lys
+- Listen over spillere i øverste venstre hjørne er fjernet (se dem med TAB)
+
 ## 0.32.1
 
 Kun spillet skal opdateres.
