@@ -3,6 +3,17 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.34.2
+
+Både spillet og serveren skal opdateres (sandsække og bondehusets mure er ændret).
+
+- Mere realistisk lys: delvist skyet himmel, en kraftigere og varmere sol med tydelige skygger,
+  og solstråler gennem en let dis mellem træerne og ind ad vinduerne
+- Matte vægge, træ og gulve: ingen glimt, der glider hen over fladerne, når man drejer hovedet
+- Sandsækkene er nu en scannet model (Megascans) i ét stykke
+- Bondehuset er højere, og gavlene er lukket på alle huse
+- Kioskens gulv er rettet (asfalten lå ind under det)
+
 ## 0.34.1
 
 Både spillet og serveren skal opdateres (nye bygninger og tage, man kan gå på).
