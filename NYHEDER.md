@@ -3,6 +3,25 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.34.0
+
+Både spillet og serveren skal opdateres (nye bygninger og ændrede indgange på prototype-gaden).
+
+- Huse på prototype-gaden: to parcelhuse og to murermestervillaer med to etager og trappe. Hvert hus
+  har køkken, stue, soveværelser og flisebelagt bad, have med stakit, indkørsel og bil, og sin egen
+  historie (et lig under et lagen, et blodspor, en besked på væggen)
+- Husene ser forladte og uhyggelige ud: revnede og afskallede vægge, skimmel i loftet, vandskjolder,
+  murbrokker, kradsemærker, graffiti, huller i taget, iturevne gardiner og haver, der er groet til.
+  De er dunkle indenfor om dagen og mørke om natten
+- Spring gennem vinduer: gå mod et åbent vindue og tryk hop for at springe igennem (begge veje)
+- Alle vinduer er helt åbne: ingen hele ruder og ingen midterpost, kun skår i karmen
+- Tankstationens kiosk har fået en rigtig dør; supermarkedets dør og lagerport er ikke længere spærret
+- Lægehuset er hvidpudset med sadeltag og grønne rammer; politistationen er i grå beton med blåt
+  bånd og flagstang, så de ikke ligner hinanden
+- Brandstationen: brandbilens flimrende klods er væk, mindre "BRANDVÆSEN", en rigtig rød slange
+  på gulvet, og knager og reol står ikke længere i vejen
+- Mørkere indenfor generelt: øjnene vænner sig mindre til mørke
+
 ## 0.33.3
 
 Både spillet og serveren skal opdateres (en ny bygning på prototype-gaden).
