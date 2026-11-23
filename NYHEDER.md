@@ -3,6 +3,19 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.33.1
+
+Både spillet og serveren skal opdateres (bygningerne på prototype-gaden er ændret).
+
+- Politistationen står nu på prototype-gaden: skranke bag skudt glas, kontor med væltede skriveborde,
+  arrest med tre tremmeceller, våbenrum med våbenkasse, omklædningsrum med skabe og en garage med
+  en bil under presenning. Sandsække, tomme hylstre, skudhuller og blod fra den sidste kamp
+- Vinduerne i bygningerne er smadret, så man kan se og skyde igennem dem: der sidder kun skår i
+  karmene, og glasset ligger på gulvet. Persiennerne er trukket op, og supermarkedets butiksruder
+  kan man nu skyde og kravle igennem
+- Udhængene over indgangene er fjernet
+- Automatiske tests bygger kun lejren, så de kører hurtigt
+
 ## 0.33.0
 
 Både spillet og serveren skal opdateres (ny protokol). Serveren kører nu altid Storbyen.
