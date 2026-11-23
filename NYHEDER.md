@@ -3,6 +3,21 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.34.1
+
+Både spillet og serveren skal opdateres (nye bygninger og tage, man kan gå på).
+
+- Rækkehuse: tre boliger i en længe, hver med køkken, stue, soveværelse og have; der er slået hul
+  mellem to af dem
+- Gammelt bondehus: hvidkalket stuehus med bindingsværk og stråtag, lave lofter med bjælker, og en
+  åben lade med halmballer og høstvogn ved gårdspladsen
+- Prototype-gaden har bygninger på begge sider af vejen, så man ikke skal gå så langt
+- Tagene på husene står rigtigt og kan betrædes; fra en affaldscontainer ved bagmuren kan man
+  klatre op på parcelhusenes og rækkehusets tag
+- Større vinduer, som man kan springe igennem; springet virker også, når man står helt op ad muren
+- Villaens bad er lukket mod trappen, fliserne dækker ikke længere døre og vinduer, og teksterne på
+  husene er fjernet
+
 ## 0.34.0
 
 Både spillet og serveren skal opdateres (nye bygninger og ændrede indgange på prototype-gaden).
