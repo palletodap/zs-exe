@@ -3,6 +3,15 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.34.4
+
+Både spillet og serveren skal opdateres (vinduer og gemmesteder ændrer husene).
+
+- Gavlene på husene er nu hvide og pudsede i begge ender (før var de mørke og stribede)
+- Færre vinduer: nogle rum har ingen vinduer, så man ikke kan ses udefra
+- Gemmesteder: klædeskabe i parcelhusene og villaerne, redskabsskure i haverne og en hule af
+  halmballer i laden (dukket kan man gemme sig derinde)
+
 ## 0.34.3
 
 Kun spillet skal opdateres.
