@@ -3,6 +3,19 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.33.2
+
+Både spillet og serveren skal opdateres (en ny bygning og en ny loot-kilde).
+
+- Brandstationen står nu på prototype-gaden: en høj vognhal med tre porte (én hænger halvt nede, så
+  man skal under den), en brandbil med åbne materielrum, en tom plads, hvor en slange er revet med
+  ud ad porten, knager med udrykningstøj og hjelme, vagtstue med radio, opholdsstue med køkken og
+  et 12 meter højt slangetårn bagved
+- Ny loot-kilde "Brandstation" med mad, vand, forbindinger, førstehjælpskasser, tasker og
+  vækkeure; øksen kan også findes der
+- Falsk dagslys indenfor: om dagen er rummene jævnt oplyst, så der ikke er helt sorte hjørner; om
+  aftenen bliver det mørkt igen
+
 ## 0.33.1
 
 Både spillet og serveren skal opdateres (bygningerne på prototype-gaden er ændret).
