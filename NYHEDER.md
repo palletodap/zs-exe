@@ -3,6 +3,18 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.33.3
+
+Både spillet og serveren skal opdateres (en ny bygning på prototype-gaden).
+
+- Tankstationen står nu på prototype-gaden: halvtag over to pumpeøer (en bil er kørt ind i en
+  stander, og ved den anden har det brændt), en kiosk med smadret glasfacade, kasse, pølsevogn,
+  køleskabe og lager, en vaskehal, en prispylon ved vejen, et bur med gasflasker og en automat
+- Rigtige teksturer på inventaret i bygningerne: slidt maling på reoler, diske, skabe og standere,
+  træ på skrivebordene, slidt metal på bjælker og tremmer, stof på sandsække og senge, rigtige
+  rulleskodder på brandstationens porte og glatte loftplader
+- Nye modeller: metaldunk, gasflaske, affaldssæk og plastkasse
+
 ## 0.33.2
 
 Både spillet og serveren skal opdateres (en ny bygning og en ny loot-kilde).
