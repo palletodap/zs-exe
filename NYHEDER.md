@@ -3,6 +3,29 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.35.0
+
+Både spillet og serveren skal opdateres (nyt spawn-system og ændret netværk).
+
+- Ny brugerflade i stilen "Smittezone": mørke, gennemsigtige paneler med én giftgrøn farve,
+  mindre knapper og tekster tilpasset pc-skærme, og samme stil i alle menuer
+- Ny forside: din figur vises i 3D med knappen "Ret figur" under, og menuen står i siden
+- Knap-forklaringer i højre side af skærmen (kan slås fra i indstillingerne)
+- Staminabaren har et ekstra stykke på en tredjedel til boostet fra energibar og -drik
+- Startsteder: efter døden starter man ved det nærmeste faste startsted mindst 60 m væk, i
+  skoven uden for byerne (aldrig ved en fjende). Man venter 30 sekunder før man kan genoplive
+- Spawnbeskyttelse i 15 sekunder (slår fra, når man selv skyder, slår eller kaster); andre ser en
+  lyseblå skal om figuren
+- Man tager fart over et halvt sekund, når man begynder at gå
+- Bløde støvskyer ved skud og en rød sky med dråber, når man rammer zombier
+- Prototype-gaden: et højhus i syv etager med åbne etager og en kasserute fra balkonen op på
+  taget, fem attrap-huse man ikke kan gå ind i, og en sammenstyrtet motorvejsbro for enden
+- Pænere trapper, badeværelser, borde med ben, køleskabe og gardiner; mange småfejl i villaen,
+  brandstationen, bondehuset og laden er rettet, og man kan klatre op på ladens tag
+- Hurtigere spil: komprimerede teksturer (mindre grafikhukommelse og mindre flimmer), billigere
+  solskygger, og der sendes oftere og hurtigere over netværket (lavere ping)
+- Admins kan skifte til tredjeperson med F5 (F6 skifter skulder, F7 fryser figuren)
+
 ## 0.34.4
 
 Både spillet og serveren skal opdateres (vinduer og gemmesteder ændrer husene).
