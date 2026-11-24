@@ -3,6 +3,25 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.36.0
+
+Både spillet og serveren skal opdateres (nye bevægelser, pings og ændret netværk).
+
+- Læg dig ned med Z: kravl langsomt, kom ind under lave ting, skyd mere præcist; andre ser dig ligge
+- Pænere animationer: geværet i skulderen når man sigter, økse og katana med to hænder, ny død,
+  hop og kast; andre kan nu se når man lader, spiser, drikker og lægger forbinding
+- Kompas øverst på skærmen med grader og retning (kan slås fra eller gøres minimalt)
+- Ping med musens midterste knap (hold for et hjul: Fjende her, Zombier, Loot, Pas på, Gå hertil,
+  Hjælp); kun din gruppe ser dine pings, også på kortet
+- Kortet (M) er mørkere, har gitter med bogstaver og tal, og man kan zoome og trække i det
+- Gruppemedlemmer har nu en blå trekant over hovedet
+- Første gang man kommer ind, starter man et tilfældigt sted på kortet
+- Højhuset er bygget om: en lang, gul murstensblok med brandtrappe, åbne etager og en klatrerute
+  op på taget
+- Prototype-gaden: et katalog med 131 nye ting (biler, skilte, affald, planter, militær) står
+  udstillet for enden af gaden efter broen
+- Man fortsætter nu også, hvor man loggede ud, hvis det var oppe på et højt tag
+
 ## 0.35.0
 
 Både spillet og serveren skal opdateres (nyt spawn-system og ændret netværk).
