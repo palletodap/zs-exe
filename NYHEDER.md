@@ -3,6 +3,24 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.37.0
+
+Både spillet og serveren skal opdateres.
+
+- Nyt installationsprogram: hent ZombieSurvival-Setup.exe, så får spillet genveje i Start-menuen
+  og på skrivebordet og kan afinstalleres under Apps i Windows
+- Mere jævnt spil: skærmen i spillet, kompasset og opsamling bruger langt mindre tid pr. billede
+- Faldskade: over 4 m gør det ondt, fra 8 m kan benet brække, og over ca. 13 m dør man
+- Skud fra hoften spreder sig; sigter man, rammer man præcist
+- Efter døden starter man kun med kniv og lidt mad (men mæt og frisk)
+- Man synker ikke længere ned i jorden, når man går dukket
+- Tredjeperson (admin): skuddene rammer, hvor sigtekornet peger
+- Forsiden: "Spil" og "Karakter" (navn og figur samme sted), EU 1 som fast officiel server,
+  "+ Tilføj server" og kortets navn ved hver server
+- Kortet (M) viser ikke længere startsteder
+- Stjernerne kommer først frem, når det er mørkt, og kun mellem skyerne
+- Købmanden: skiltet kan ses fra gaden, ingen tekst i ruderne
+
 ## 0.36.0
 
 Både spillet og serveren skal opdateres (nye bevægelser, pings og ændret netværk).
