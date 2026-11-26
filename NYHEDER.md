@@ -3,6 +3,29 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.38.0
+
+Både spillet og serveren skal opdateres (ændret netværk).
+
+- Forlad serveren: 30 sekunders nedtælling, hvor figuren står forsvarsløs og ikke kan gøre noget.
+  Man kan ikke fortryde. I lejren går det med det samme
+- Lukker man spillet eller mister forbindelsen, bliver figuren stående i 30 sekunder og kan
+  dræbes og plyndres; kommer man ind igen imens, skal man vente
+- "I kamp" er fjernet; nedtællingen ovenfor afløser den
+- Er man død og logger ud og ind igen, er man stadig død og skal vente resten af tiden
+- Dødsskærmen viser ikke længere, hvor man starter igen, og der er nu 1 minut til genoplivning
+- Loot kommer langsommere igen (18-45 min alt efter sted), uanset hvor spillerne står
+- Døde zombier kommer igen efter 3-6 minutter, spredt, og aldrig tættere end 20 m på en spiller
+- Sulten og tørsten kommer langsommere (40 og 30 min), dagen er 45 min og natten 15 min
+- Plads til 24 spillere
+- Mere jævnt om natten: andre spilleres lommelygter og slukkede lys koster mindre
+- Tredjeperson: lommelygten lyser ikke længere ens eget baghoved op, katanaen rammer ikke ens
+  eget hoved, og energidrik og -bar ser rigtige ud i hånden
+- Villaens trappe har et rigtigt gelænder og lukker til væggen; reolerne i skure og lagre
+  stikker ikke længere op gennem loftet; kioskens reoler er åbne hylder med varer på
+- Papiret i butiksruderne flimrer ikke længere
+- Det står nu i esc-menuen på en officiel server, hvilken server man er på (ikke IP)
+
 ## 0.37.0
 
 Både spillet og serveren skal opdateres.
