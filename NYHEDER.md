@@ -3,6 +3,25 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.39.0
+
+Både spillet og serveren skal opdateres (ændret netværk).
+
+- Kuglefysik: kuglerne falder og er om at nå frem. På kort afstand mærkes det næsten ikke, men
+  på lang afstand skal man sigte over og foran
+- Snigskytteriflen rækker 600 m og kan indskydes på 100-600 m med Page Up / Page Down
+- Ny kikkert på snigskytteriflen: tykke stolper og tynde streger ind mod midten, afstandsstreger
+  under midten (uden tal) og et kraftigere andet zoomtrin
+- Ny ting: Afstandsmåler. Højre museknap for at kigge, venstre for at måle afstanden (op til
+  1000 m). Findes sjældent hos politiet, i våbenkasser og på værksteder
+- Zombier langt væk kan ses og rammes gennem kikkerten
+- Serveren tjekker hvert træf ud fra kuglens bane og hvor målet stod, så det er svært at snyde
+- Hop som i Counter-Strike: i luften flyver man videre i den retning, man hoppede. W gør intet,
+  A og D skubber en smule til siden, og S bremser
+- EU 1 har fået den nye adresse zseu1.1hp.dk (den gamle virker stadig et stykke tid)
+- Bag kulisserne: den nye central (konti, karakterer, roller og bans på tværs af servere),
+  automatisk opdatering af serverne og natlig backup er bygget, men endnu ikke taget i brug
+
 ## 0.38.0
 
 Både spillet og serveren skal opdateres (ændret netværk).
