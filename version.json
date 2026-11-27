@@ -1,6 +1,6 @@
 {
-	"version": "0.38.0",
-	"protocol": 31,
-	"windows_url": "https://github.com/palletodap/zs-exe/releases/download/v0.38.0/ZombieSurvival-windows.zip",
+	"version": "0.39.0",
+	"protocol": 32,
+	"windows_url": "https://github.com/palletodap/zs-exe/releases/download/v0.39.0/ZombieSurvival-windows.zip",
 	"notes": ""
 }
