@@ -3,6 +3,17 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.40.0
+
+Spillet skal opdateres; serveren opdateres automatisk af centralen.
+
+- Natten er en anelse lysere i skyggerne: huse, hegn og træer kan anes som silhuetter, men
+  detaljer, loot og alt indendørs kræver stadig lommelygte
+- EU 1 er flyttet over på den nye central: konti, karakterer, roller og bans ligger nu ét sted
+  for alle servere. Alle starter forfra, og lejrens kasse er lukket, indtil vault kommer i
+  hovedmenuen
+- Bag kulisserne: serverne opdateres nu automatisk og samtidig via centralen
+
 ## 0.39.0
 
 Både spillet og serveren skal opdateres (ændret netværk).
