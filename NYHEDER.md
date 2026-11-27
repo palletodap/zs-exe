@@ -3,6 +3,23 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.41.0
+
+Spillet skal opdateres; serveren opdateres af centralen.
+
+- Ny indlæsningsskærm, når man tilslutter en server: man kan se, hvor langt den er (forbinder,
+  bygger verden, klargør grafikken), og grafikken klargøres bag skærmen, så de første hak
+  ikke ses
+- Man bliver ikke længere smidt af serveren, hvis spillet hakker et par sekunder (fx lige efter
+  en ny version)
+- Færre grafikfejl i byen (plads til flere spejlinger i husene)
+- F3 viser ydelsen: FPS, hvor lang tid grafikkortet og processoren bruger, og hvad der holder
+  FPS nede
+- Spawnbeskyttelse får man kun på kortets startsteder (ny karakter, fra en anden server eller
+  efter døden), ikke når man logger ind, hvor man loggede ud
+- Nedtællingen ved log ud er gjort enklere
+- Opdateringer af spillet hentes hurtigere og giver ikke op, bare fordi de tager lang tid
+
 ## 0.40.0
 
 Spillet skal opdateres; serveren opdateres automatisk af centralen.
