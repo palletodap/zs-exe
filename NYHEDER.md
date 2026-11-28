@@ -3,6 +3,42 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.43.0
+
+Både spillet og serveren skal opdateres (ændret netværk). Centralen opdateres først.
+
+- Vaultkassen i lejren er tilbage: gå hen til pengeskabet i lejren og tryk E, så kan du flytte
+  ting mellem din rygsæk og vaulten uden at logge ud. Det er den samme vault som i
+  hovedmenuen (60 felter, fælles for dine karakterer). Træk, dobbeltklik eller Ctrl+klik for at
+  flytte, Shift+klik for at dele en stak. Kan vaulten ikke nås, siger kassen det, og intet
+  flyttes
+- Vault i hovedmenuen: træk og slip virker nu (før skete der ingenting). Shift+klik spørger, hvor
+  mange af en stak der skal flyttes (som i spillet), og Ctrl+klik eller dobbeltklik flytter en ting
+  over på den anden side
+- Tasken kan skiftes fra vault i hovedmenuen: træk en taske til Taske-feltet (eller dobbeltklik
+  på den) for at tage den på, og træk tasken til vault for at tage den af. Er der ikke plads til
+  tingene i en mindre taske, eller bliver den for tung, siger menuen det
+- Ny vaultside i hovedmenuen: karakteren til venstre med figur, udstyr (Taske nu; Hjelm og Vest
+  kommer senere), genvejsbjælke, taske og vægt; vaulten til højre med større felter, filtre
+  (Våben, Ammo, Mad og medicin, Udstyr, Andet) og en Sortér-knap, der lægger ens ting sammen og
+  sorterer efter slags, sjældenhed og navn
+- "Afslut" i hovedmenuen spørger først: "Luk spillet?"
+- "Slet karakter" virker igen: vinduet passer på skærmen, og "Slet for altid" bliver rød og
+  kan trykkes, når navnet er skrevet
+- Nye regler for vault i hovedmenuen: en karakters taske kan kun bruges med vault, når
+  karakteren loggede ud i en lejr, er død og klar til at genopstå, eller aldrig har spillet.
+  Loggede den ud ude i verden, er tasken låst ("Ravn loggede ud ude i verden. Log ud i en lejr
+  for at bruge vaulten med Ravn."); er den død og venter, står der, hvornår den er klar. Vaulten
+  kan stadig ses, og dine andre karakterer kan bruge den
+- Karakterer, der fandtes før denne version, kan bruges med vaulten med det samme
+- Højere FPS i byen: bygninger og ting tegnes samlet (60-80 % færre tegnekald, samme udseende),
+  zombier langt væk eller bag dig animeres sjældnere, og himlen regnes kun om, når solen flytter
+  sig. Lys inde i husene og blod- og sodpletter tegnes ikke på lang afstand
+- F3 viser nu, hvor tiden går: fysik, script, tegning og hovedtråd i alt
+- Ny indstilling under Skærm: "Tegnetråd (forsøg)" tegner i en tråd for sig (spillet genstarter
+  én gang, når den er slået til). Slået fra som standard
+- De blinkende lysrør blinker igen
+
 ## 0.42.0
 
 Både spillet og serveren skal opdateres (ændret netværk). Centralen opdateres først.
