@@ -3,6 +3,24 @@
 Hvad der er lavet i hver version. Afsnittet for en version bliver automatisk til beskrivelsen
 af udgivelsen i `palletodap/zs-exe`. Skriv et nyt afsnit øverst, hver gang versionsnummeret hæves.
 
+## 0.42.0
+
+Både spillet og serveren skal opdateres (ændret netværk). Centralen opdateres først.
+
+- Ny hovedmenu: dine karakterer står på forsiden med figur i 3D, status ("Klar", "Online på EU 1",
+  "Død · klar om 0:42" eller "Logget ud på EU 1 · felt M14") og drab. Du kan have tre. Navn og
+  figur vælges i et vindue med alle figurerne i 3D, og figuren kan skiftes senere med "Figur"
+- Den store SPIL-knap øverst åbner et vindue med de officielle servere (kort, spillere og
+  svartid), og man joiner med den valgte karakter. Egne servere og "Tilføj server" er fjernet
+- Vault er tilbage, nu i hovedmenuen: 60 felter, fælles for dine karakterer. Træk ting mellem
+  vault og karakterens taske, mens ingen af dine karakterer er online. Lejrens kasse er lukket
+- Ny lyddæmpet snigskytteriffel (VSS): stille skud uden sporlys, 10 skud i magasinet og hurtigere
+  skud end den store riffel, men langsomme kugler, der falder meget: allerede ca. 1 m på 150 m og
+  9 m på 300 m. Kikkert med to zoomtrin og indskydning 100-400 m. Episk og sjælden
+- Kuglerne falder mere på lang afstand (cirka dobbelt så meget som før), så det kan mærkes allerede
+  omkring 150 m; afstandsstregerne i kikkerten følger med
+- Lyddæmpede skud høres kun på nært hold (ca. 110 m)
+
 ## 0.41.0
 
 Spillet skal opdateres; serveren opdateres af centralen.
